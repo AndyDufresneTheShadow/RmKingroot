@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CrashTrack/CrashTrack.iml" filepath="$PROJECT_DIR$/CrashTrack/CrashTrack.iml" />
       <module fileurl="file://$PROJECT_DIR$/RmKingroot.iml" filepath="$PROJECT_DIR$/RmKingroot.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
